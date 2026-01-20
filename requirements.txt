@@ -1,6 +1,6 @@
 streamlit
 langchain==0.0.354
-langchain-community
+langchain-community==0.0.20
 langchain-text-splitters
 langchain-google-genai
 google-generativeai
